@@ -1,3 +1,3 @@
-Autor: oscarmlopez199522@gmail.com
+Autor: oscarmlopez199522@gmail.com (Oscar Junior M)
 # MenuAcordeon
 Menu con efecto de acordeon
